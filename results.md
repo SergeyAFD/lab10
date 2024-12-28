@@ -1,6 +1,0 @@
-![Error](images/result.png)
-![Error](images/UseCase.png)
-![Error](images/ClassDiagram.png)
-![Error](images/ClassDiagram2.png)
-![Error](images/SequenceDiagram.png)
-![Error](images/ActivityDiagram.png)
